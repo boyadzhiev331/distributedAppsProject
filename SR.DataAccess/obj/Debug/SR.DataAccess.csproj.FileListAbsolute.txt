@@ -1,0 +1,44 @@
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CopyComplete
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations._Initial.resources
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SR.Data\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations.Attributes.resources
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations._Initial.resources
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations.Attributes.resources
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.DataAccess\obj\Debug\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations._Initial.resources
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.Migrations.Attributes.resources
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.DataAccess\obj\Debug\SR.DataAccess.pdb

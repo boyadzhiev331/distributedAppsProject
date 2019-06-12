@@ -1,0 +1,189 @@
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\obj\Debug\SR.Repositories.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\obj\Debug\SR.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\obj\Debug\SR.Repositories.csproj.CopyComplete
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\obj\Debug\SR.Repositories.dll
+C:\Users\Asus\source\repos\SR.Data\SR.Repositories\obj\Debug\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\obj\Debug\SR.Repositories.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\obj\Debug\SR.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\obj\Debug\SR.Repositories.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\obj\Debug\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.Repositories\obj\Debug\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\obj\Debug\SR.Repositories.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\obj\Debug\SR.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\obj\Debug\SR.Repositories.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\obj\Debug\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.Repositories\obj\Debug\SR.Repositories.pdb

@@ -1,0 +1,63 @@
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.WcfServices.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.WcfServices.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.WcfServices.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.ApplicationServices.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.ApplicationServices.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.ApplicationServices.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\obj\Debug\SR.WcfServices.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CopyComplete
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\obj\Debug\SR.WcfServices.dll
+C:\Users\Asus\source\repos\SR.Data\SR.WcfServices\obj\Debug\SR.WcfServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.WcfServices.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.WcfServices.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.WcfServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.ApplicationServices.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.ApplicationServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.ApplicationServices.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\obj\Debug\SR.WcfServices.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\obj\Debug\SR.WcfServices.dll
+C:\Users\Asus\source\repos\StudentsRegister\SR.WcfServices\obj\Debug\SR.WcfServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.WcfServices.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.WcfServices.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.WcfServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.ApplicationServices.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.DataAccess.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.Repositories.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.ApplicationServices.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.ApplicationServices.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.DataAccess.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.DataAccess.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.Repositories.pdb
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\bin\SR.Repositories.dll.config
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\obj\Debug\SR.WcfServices.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\obj\Debug\SR.WcfServices.csproj.CopyComplete
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\obj\Debug\SR.WcfServices.dll
+C:\Users\Asus\source\repos\StudentsRegister - Copy\SR.WcfServices\obj\Debug\SR.WcfServices.pdb

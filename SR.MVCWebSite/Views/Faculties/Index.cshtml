@@ -1,0 +1,39 @@
+﻿@model SR.MVCWebSite.ViewModels.FacultiesVM.IndexVM
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Faculties</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>City</th>
+        <th>Address</th>
+    </tr>
+
+@foreach (var item in Model.Items) {
+<tr>
+    <td>
+        @item.Name
+    </td>
+    <td>
+        @item.City
+    </td>
+    <td>
+        @item.Address
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { Id = item.Id }) |
+    </td>
+    <td>
+        @Html.ActionLink("Delete", "Delete", new { Id = item.Id })
+    </td>
+</tr>
+}
+
+</table>
